@@ -1,0 +1,30 @@
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe.config
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.pdb
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csprojAssemblyReference.cache
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Form1.resources
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Properties.Resources.resources
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.GenerateResource.cache
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.exe
+C:\Users\RemizovaAR\source\repos\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.pdb
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe.config
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.pdb
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csprojAssemblyReference.cache
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Form1.resources
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Properties.Resources.resources
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.GenerateResource.cache
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.exe
+C:\Users\RemizovaAR\Desktop\Учебные\КГ\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.pdb
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.exe
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\bin\Debug\CG_Lab1.pdb
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csprojAssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.exe
+C:\Users\artem\OneDrive\Рабочий стол\CG_Lab1\CG_Lab1\obj\Debug\CG_Lab1.pdb
